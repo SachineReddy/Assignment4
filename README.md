@@ -1,2 +1,4 @@
-# Assignment4
- Demonstrate Grid CSS layout
+# Demonstrate Grid CSS layout
+
+To run, open the project in vscode and turn on live server.
+ 
